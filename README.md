@@ -1,7 +1,7 @@
 # Hi there, I'm Sumat Midya Chowdhuri! 👋
 
 ## 🚀 About Me
-🎓 Final-year undergraduate at **IIT Kharagpur**, specializing in **Vision and Intelligent Systems**.
+🎓 Pre-final year undergraduate at **IIT Kharagpur**, specializing in **Vision and Intelligent Systems(Focusing on Pattern Recognition, Image & Video Processing, Computer Vision & Deep Learning**.
 🔍 Passionate about **Deep Learning, Computer Vision, and AI-driven innovations**.
 🌍 Open to **remote work**
 
